@@ -21,5 +21,6 @@ Quelle ist `~/Desktop/Claude/rhodus-test/web/` (React/Vite). Hier wird nichts vo
 - 20.11.2026: angelegt. Inhalt wie die lokale Testseite (Entscheidung Tobias: „Alles wie Testseite“, also auch inoffizielle
   Kennzahlen, Promi-Fotos, Börsenlogos; Risiken in `rhodus-test/web/VOR_LIVEGANG.md`). Preisseite und Gratis/Pro entfallen,
   stattdessen Warteliste.
-- [ ] Kit-Formular „Rhodus Warteliste“ anlegen, ID in `KIT_FORMULAR` eintragen, neu bauen.
-- [ ] GitHub-Repository anlegen und pushen, Pages einschalten, DNS-Eintrag, HTTPS erzwingen.
+- [x] Kit-Formular „Rhodus Warteliste“ (ID 10219810) eingetragen.
+- [x] Repository tobzwil89/rhodus-landing, DNS bei Namecheap (geprüft 20.11.: zeigt auf GitHub).
+- [ ] Pages-Quelle auf Ordner `/docs` stellen (stand auf `/`, Seite lag deshalb unter `/docs/`), danach HTTPS erzwingen.
